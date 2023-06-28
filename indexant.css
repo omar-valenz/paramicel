@@ -10,8 +10,7 @@ html {
 
 body
 {
-    color: aliceblue;
- background:  fixed  url("img/orange.jpg") ;
+ background: rgb(247, 84, 8);
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 1.2rem;
  min-height: 100%;
